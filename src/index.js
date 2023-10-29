@@ -1,5 +1,6 @@
 // Importing React libs from node_modules folder
 import React from 'react'
+// eslint-disable-next-line react/no-deprecated
 import { render } from 'react-dom'
 
 // Importing the styles - the bundler does some magic!
